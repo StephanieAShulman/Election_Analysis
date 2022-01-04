@@ -36,8 +36,16 @@ Initial tasks included:
 - The winner of the election was:
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
   
-This script can be used in the future with some minor modifications.
- Two examples include:
- 1. XXX
- 2. XXX
+### This Code: Future Use
+This script can be applied to future elections in different ways. For example:
+
+ 1. Existing county-specific code can be modified for state-specific use by creating a list of states and a dictionary of votes for those states, tracking where votes were greatest. Any related coding would also have to be updated. Advanced python coding (eg: numpy, pandas) can be used to look at regional differences. 
+![Alt text](https://user-images.githubusercontent.com/30667001/148101578-d14bba25-9295-4d96-8408-c8d11653573e.png)
+
+ 2. Sometimes election results aren't immediately obvious. According to Ballotpedia(https://ballotpedia.org/Too_close_to_call), an election is too close to call when the vote totals are within 5%.
+
+Existing winner-specific code can be modified to:
+- Include mathematical calculations to check for counts and percentages within 5%.
+- Pair if-else statements and MsgBox coding (eg: "This election is too close to call.") to alert auditors to potential issues.
+![Alt text]()
   
