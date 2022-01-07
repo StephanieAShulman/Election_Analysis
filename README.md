@@ -27,7 +27,7 @@ Initial tasks included:
 
 ### Election Analysis Summary
 - There were 369,711 votes cast in the election.
-- Of the three counties, the greatest number of votes were cast in Denver County (306,055 or 82.8% of the vote).
+- Of the three counties, the greatest number of votes was cast in Denver County (306,055 or 82.8% of the vote).
   - Votes cast in Arapahoe (24,801 at 6.7%) and Jefferson (38,855 at 10.5%) counties were much fewer than that of Denver County.
 - Of the three candidates running:
   - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
