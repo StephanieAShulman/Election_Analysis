@@ -1,4 +1,8 @@
+
 # Election_Analysis
+Use VBA to refactor code and measure performance
+
+![Voted](https://user-images.githubusercontent.com/30667001/164519318-68ee9fac-b835-4e91-b590-e3856a048d0f.png)
 
 ### Resources
   - Data Source: election_results.csv
