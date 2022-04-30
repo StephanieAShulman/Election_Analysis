@@ -1,6 +1,6 @@
 
-# Election_Analysis
-Use VBA to refactor code and measure performance
+PyPoll Election Analysis
+Using Python to automate the election audit process
 
 ![Voted](https://user-images.githubusercontent.com/30667001/164519318-68ee9fac-b835-4e91-b590-e3856a048d0f.png)
 
